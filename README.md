@@ -40,7 +40,7 @@ wind-turbine-damage-detection/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Priyanshu-rajsingh/wind-turbine-damage-detection.git
+git clone https://github.com/thanvireddy8/wind-turbine-blade-damage-detection.git
 cd wind-turbine-damage-detection
 ```
 
@@ -87,7 +87,18 @@ The model was trained on a labeled dataset of turbine blade images with segmenta
 
 ---
 
+# ⭐ Future Improvements
+
+- Real-time drone inspection support
+- Cloud deployment integration
+- Multi-damage classification
+- Improved model accuracy with larger datasets
+
+---
+
 ## Author
 
-**Priyanshu Raj Singh**  
+**Mallu Sri Thanvi Reddy**  
 Computer Science Engineering, Vardhaman College of Engineering
+
+-Developed as a collaborative academic mini project.
