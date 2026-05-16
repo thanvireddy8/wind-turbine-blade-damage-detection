@@ -6,7 +6,7 @@
 
 A deep learning–based system for automated detection of structural damage in wind turbine blades using YOLOv8 segmentation. The system analyzes blade images to identify defects such as erosion, contamination, laminate damage, and other surface anomalies, and delivers results through an interactive Streamlit web interface.
 
-🔗 **Live Demo:** [wind-turbine-damage-detection.streamlit.app](https://wind-turbine-damage-detection.streamlit.app/)
+🔗 **Live Demo:** [wind-turbine-damage-detection.streamlit.app](https://wind-turbine-blade-damage-detection-rng7wmmkjnrjalvrdmdjvr.streamlit.app/)
 
 ---
 
