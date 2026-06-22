@@ -9,6 +9,11 @@ A deep learning–based system for automated detection of structural damage in w
 🔗 **Live Demo:** [wind-turbine-damage-detection.streamlit.app](https://wind-turbine-blade-damage-detection-rng7wmmkjnrjalvrdmdjvr.streamlit.app/)
 
 ---
+## 🎥 Project Demo
+
+[▶ Watch Project Execution Video](https://drive.google.com/file/d/1DXksDmc_4RrG79StuX3E-dT-8Lf5HiXk/view?usp=drivesdk)
+
+---
 
 ## Features
 
